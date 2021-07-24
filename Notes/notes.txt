@@ -1,0 +1,11 @@
+Bundler
+  webpack -> modern webserver
+  webpack config -> holds your dev configuration
+  webpack config @ bit.ly/3aZEd7p
+
+  its a single object config
+      mode to dev makes it easy to deburg
+      entry file that node js looks to start 
+      output where to create the bundle file
+
+      configure server to run webpack
